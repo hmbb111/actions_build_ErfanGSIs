@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/9.8.22/miui_CEPHEUS_9.8.22_aa27670572_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/15_Plus/8.0.5.0/cn/20200901173134/bc87a343/update.zip
+  ROM_NAME: flyme
   TZ: Asia/Shanghai
 
 jobs:
